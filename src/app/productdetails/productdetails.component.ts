@@ -1,7 +1,7 @@
 import { Component, Input } from '@angular/core';
 import { productitem } from '../../../products-list';
 import productsJason from '../../assets/products-list.json'
-import { ActivatedRoute } from '@angular/router';
+// import { ActivatedRoute } from '@angular/router';
 // import { Router } from '@angular/router';
 @Component({
   selector: 'app-productdetails',
